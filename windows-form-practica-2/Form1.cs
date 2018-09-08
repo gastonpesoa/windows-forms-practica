@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace windows_form_practica_1
+namespace windows_form_practica_2
 {
     public partial class Form1 : Form
     {
@@ -17,25 +17,14 @@ namespace windows_form_practica_1
             InitializeComponent();
         }
 
-        private void lblMensaje_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-
+            lblMensaje.Text = "";
         }
 
         private void btnSaludo_Click(object sender, EventArgs e)
         {
-            lblMensaje.Text = "Hola Mundo!";
-        }
-
-        private void btnDespedida_Click(object sender, EventArgs e)
-        {
-            lblMensaje.Text = "Hasta Luego!";
-            this.Text = "Bye!";
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            lblMensaje.Text = "";
+            lblMensaje.Text = "Hola " + txtNombre.Text + "!!";
         }
     }
 }

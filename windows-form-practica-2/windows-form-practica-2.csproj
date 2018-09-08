@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F96749D-D68D-45A7-ACBD-26620CAB6D29}</ProjectGuid>
+    <ProjectGuid>{FD9F2596-E242-413A-A602-776D55E1F7A4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>windows_form_practica_1</RootNamespace>
-    <AssemblyName>windows-form-practica-1</AssemblyName>
+    <RootNamespace>windows_form_practica_2</RootNamespace>
+    <AssemblyName>windows-form-practica-2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

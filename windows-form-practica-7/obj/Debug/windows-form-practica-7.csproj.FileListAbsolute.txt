@@ -1,0 +1,10 @@
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\bin\Debug\windows-form-practica-7.exe.config
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\bin\Debug\windows-form-practica-7.exe
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\bin\Debug\windows-form-practica-7.pdb
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\obj\Debug\windows_form_practica_7.Form1.resources
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\obj\Debug\windows_form_practica_7.Form2.resources
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\obj\Debug\windows_form_practica_7.Properties.Resources.resources
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\obj\Debug\windows-form-practica-7.csproj.GenerateResource.cache
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\obj\Debug\windows-form-practica-7.csproj.CoreCompileInputs.cache
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\obj\Debug\windows-form-practica-7.exe
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-7\obj\Debug\windows-form-practica-7.pdb

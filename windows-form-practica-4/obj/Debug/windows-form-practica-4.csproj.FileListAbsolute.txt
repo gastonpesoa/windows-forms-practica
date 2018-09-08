@@ -1,0 +1,10 @@
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\bin\Debug\windows-form-practica-4.exe.config
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\bin\Debug\windows-form-practica-4.exe
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\bin\Debug\windows-form-practica-4.pdb
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\obj\Debug\windows-form-practica-4.csprojAssemblyReference.cache
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\obj\Debug\windows_form_practica_4.Form1.resources
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\obj\Debug\windows_form_practica_4.Properties.Resources.resources
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\obj\Debug\windows-form-practica-4.csproj.GenerateResource.cache
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\obj\Debug\windows-form-practica-4.csproj.CoreCompileInputs.cache
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\obj\Debug\windows-form-practica-4.exe
+C:\Users\Gaston-Pesoa\source\repos\windows-form-practica-1\windows-form-practica-4\obj\Debug\windows-form-practica-4.pdb
